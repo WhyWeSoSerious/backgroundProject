@@ -40,7 +40,7 @@ module.exports = {
     // 代理配置
     proxy: {
       '/dev-api': {
-        target: 'http://182.92.128.115',
+        target: 'http://39.98.123.211',
         pathRewrite: {
           '^/dev-api': ''
         }
